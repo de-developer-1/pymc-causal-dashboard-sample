@@ -1,0 +1,2 @@
+# pymc-causal-dashboard-sample
+サンプルデータ用いたベイズ推定による施策効果の可視化サンプルダッシュボード構築
