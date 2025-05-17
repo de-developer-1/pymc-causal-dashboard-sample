@@ -1,0 +1,7 @@
+pymc>=5.9.0
+arviz>=0.16
+pandas
+numpy
+streamlit
+matplotlib
+jupyter
